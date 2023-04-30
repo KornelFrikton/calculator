@@ -1,0 +1,21 @@
+.display {
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  border: 3px solid black;
+  user-select: none;
+  word-wrap: break-word;
+  background-color: #e6e8e6;
+  color: black;
+  font-weight: bolder;
+  display: block;
+  text-align: right;
+  box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+  .display {
+    font-weight: bold;
+    margin: 20px;
+  }
+}

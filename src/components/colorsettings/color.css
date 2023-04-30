@@ -1,0 +1,11 @@
+.colorField {
+  padding: 0px 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.colorPoint {
+  padding: 10px;
+}
