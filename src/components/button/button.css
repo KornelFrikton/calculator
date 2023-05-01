@@ -4,6 +4,7 @@
   cursor: pointer;
   font-weight: bold;
   border-radius: 20px;
+  min-width: 38px;
 }
 
 @media (min-width: 480px) {
